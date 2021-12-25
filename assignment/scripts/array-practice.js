@@ -38,8 +38,7 @@ console.log('last on my list of animals is a', animalArray[3]);
 
 // 3.c. (STRETCH) TODO: Log the last animal by using the array length,
 //      instead of the exact index number of the last item
-//***********************************     ----   ********************
-// Im really curious what the answer is. Maybe give me a hint??
+console.log(animalArray[animalArray.length - 1]);
 
 
 // 4. Adding & Removing Array Items
